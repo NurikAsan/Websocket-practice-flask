@@ -1,4 +1,4 @@
-@ Simple Chat App using flask flask-socketio
+Simple Chat App using flask flask-socketio
 
 # These commands will launch the application
 
